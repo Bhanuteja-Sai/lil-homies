@@ -342,17 +342,17 @@ export default function App() {
             <p className="text-[#5d564f] mt-2">Selected work and explorations.</p>
             <div className="projects-grid">
               <div className="project-card">
-                <img src="https://source.unsplash.com/collection/190727/800x600?sig=11" alt="Project 1" />
+                <img src="img1.png" alt="Project 1" />
                 <h4 className="mt-3 font-mono text-sm text-[#3f3a36]">Project One</h4>
                 <p className="text-[#6b6662] text-sm mt-1">Design system and performant frontend for a boutique brand.</p>
               </div>
               <div className="project-card">
-                <img src="https://source.unsplash.com/collection/190727/800x600?sig=22" alt="Project 2" />
+                <img src="img2.png" alt="Project 2" />
                 <h4 className="mt-3 font-mono text-sm text-[#3f3a36]">Project Two</h4>
                 <p className="text-[#6b6662] text-sm mt-1">E‑commerce platform with custom CMS integrations.</p>
               </div>
               <div className="project-card">
-                <img src="https://source.unsplash.com/collection/190727/800x600?sig=33" alt="Project 3" />
+                <img src="img3.png" alt="Project 3" />
                 <h4 className="mt-3 font-mono text-sm text-[#3f3a36]">Project Three</h4>
                 <p className="text-[#6b6662] text-sm mt-1">Interactive product experience with WebGL layers.</p>
               </div>
@@ -366,12 +366,12 @@ export default function App() {
             <h3 className="text-3xl font-serif font-light text-[#171717]">Image Gallery</h3>
             <p className="text-[#5d564f] mt-2">A quick visual tour.</p>
             <div className="gallery-grid">
-              <img className="gallery-img" src="https://source.unsplash.com/random/800x600?sig=101" alt="gallery 1" />
-              <img className="gallery-img" src="https://source.unsplash.com/random/800x600?sig=102" alt="gallery 2" />
-              <img className="gallery-img" src="https://source.unsplash.com/random/800x600?sig=103" alt="gallery 3" />
-              <img className="gallery-img" src="https://source.unsplash.com/random/800x600?sig=104" alt="gallery 4" />
-              <img className="gallery-img" src="https://source.unsplash.com/random/800x600?sig=105" alt="gallery 5" />
-              <img className="gallery-img" src="https://source.unsplash.com/random/800x600?sig=106" alt="gallery 6" />
+              <img className="gallery-img" src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8/800x600?sig=101" alt="gallery 1" />
+              <img className="gallery-img" src="https://images.unsplash.com/photo-1457305237443-44c3d5a30b89/800x600?sig=102" alt="gallery 2" />
+              <img className="gallery-img" src="https://images.unsplash.com/photo-1631378297854-185cff6b0986/800x600?sig=103" alt="gallery 3" />
+              <img className="gallery-img" src="https://images.unsplash.com/photo-1682971829405-42b40b5f0895/800x600?sig=104" alt="gallery 4" />
+              <img className="gallery-img" src="https://images.unsplash.com/photo-1605379399642-870262d3d051/800x600?sig=105" alt="gallery 5" />
+              <img className="gallery-img" src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2/800x600?sig=106" alt="gallery 6" />
             </div>
           </div>
         </section>
